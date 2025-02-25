@@ -1,10 +1,12 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hey! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+Soy Juan Sebastián López, un Desarrollador FullStack apasionado por la tecnología y el desarrollo de software. Me especializo en bases de datos, desarrollo móvil y web, siempre buscando soluciones innovadoras y eficientes.
+
+🎯 Me encanta aprender, colaborar y construir herramientas útiles para mejorar la vida de las personas.
+
+📌 Actualmente estoy enfocado en Next.js, Tailwind CSS, Inteligencia Artificial y Transpiladores, Dart, Python, aplicando estos conocimientos en mis proyectos personales y académicos.
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
