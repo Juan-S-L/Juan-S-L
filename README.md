@@ -1,105 +1,60 @@
-<!-- Greeting -->
-# Hey! :wave::smiley:
+# ¡Hola! 👋😃
 
-<!--Introduction -->
-Soy Juan Sebastián López, un Desarrollador FullStack apasionado por la tecnología y el desarrollo de software. Me especializo en bases de datos, desarrollo móvil y web, siempre buscando soluciones innovadoras y eficientes.
+Soy **Juan Sebastián López Urbano**, estudiante de Ingeniería de Sistemas dando mis primeros pasos en el desarrollo de software. Me especializo en el desarrollo móvil y la gestión de bases de datos, y siempre me esfuerzo por alcanzar la excelencia en cada proyecto.
 
-🎯 Me encanta aprender, colaborar y construir herramientas útiles para mejorar la vida de las personas.
+🎯 Me apasiona aprender, colaborar y aplicar mis conocimientos en entornos reales, creando soluciones innovadoras y eficientes que aporten valor tanto a equipos como a organizaciones.
 
-📌 Actualmente estoy enfocado en Next.js, Tailwind CSS, Inteligencia Artificial y Transpiladores, Dart, Python, aplicando estos conocimientos en mis proyectos personales y académicos.
+📌 Actualmente, me enfoco en perfeccionar mis habilidades en tecnologías para el desarrollo de aplicaciones integrales, combinando tanto el front-end como el back-end. He participado en proyectos significativos utilizando herramientas como **Flutter**, **Django**, **MySQL**, **Java**, **Python** y **JavaScript**.
 
-<!-- Your badges -->
-<!-- [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com) -->
+---
 
-<!-- Profile View Count -->
-<!-- ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN) -->
+## 💼 Proyectos y Experiencias
 
-<!-- Working GIF -->
-<!-- <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" /> -->
+- **BeeNote (2024):**  
+  Desarrollé una aplicación móvil para estudiantes de la Universidad Cooperativa de Colombia que facilita la gestión de proyectos. Me encargué de la arquitectura del frontend y backend utilizando **Flutter** y **Django**.
 
-### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
+- **HostPital (2023):**  
+  Creé una plataforma web para mejorar la toma de citas médicas y la comunicación entre pacientes y doctores. El proyecto incluyó el diseño y la administración de la base de datos utilizando **Django** y **MySQL Server**.
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+- **Dron-SSJ (2022):**  
+  Lideré el desarrollo de un dron de rescate utilizando **Arduino**, coordinando el trabajo en equipo y la integración de sensores y GPS para lograr un control eficiente.
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
+- **TransferCoop (2022):**  
+  Implementé una aplicación de escritorio para gestionar transacciones financieras. Usé **Java** para la interfaz y **MySQL** para el manejo de datos, garantizando precisión en cada operación.
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
-<br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
-<br>
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+---
 
-</p>
+## 🌱 Desafíos Actuales
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+- Dedicar entre 3 y 4 horas diarias a codificar sin distracciones para fortalecer mis habilidades de programación.  
+- Mantenerme actualizado mediante la lectura diaria de artículos y documentación en desarrollo y gestión de bases de datos.  
+- Participar en proyectos que me permitan experimentar y aplicar mis conocimientos en situaciones reales.  
+- Fomentar un estilo de vida equilibrado que combine el aprendizaje continuo con actividades físicas y recreativas.
 
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
+---
 
+## 🛠️ Lenguajes y Herramientas
 
+- **Lenguajes:** SQL, Python, Java, JavaScript, Dart.
+- **Tecnologías y Herramientas:** Flutter, Django, MySQL, Arduino.
+- **Idiomas:** Español (nativo) e Inglés.
 
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si deseas conocer más sobre mis proyectos o colaborar en un nuevo desafío, puedes escribirme a:  
+[lopezurban.juansebastian@gmail.com](mailto:lopezurban.juansebastian@gmail.com)  
+o llamarme al **+57 3204094898**.
 
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
+---
+
+<h4 align="center">¡Gracias por tu visita!</h4>
+
+---
+
+### Créditos
+
+- [**GIPHY**](https://giphy.com/) para los GIFs.
+
+⭐️ Inspirado en la pasión por la tecnología y el desarrollo profesional.
